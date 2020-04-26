@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="name">Wojtek</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+        Wojtek is a 35-year-old personal trainer who enjoys finger painting, vandalising bus stops and escapology. He is considerate and friendly, but can also be very unkind and a bit stingy.
+
+He is English who defines himself as straight. He has a post-graduate degree in sports science. He is obsessed with colouring in and bottled water.
+
+Physically, Mark is in pretty good shape. He is average-height with brown skin, black hair and green eyes.
+
+He grew up in a middle class neighbourhood. He was raised in a happy family home with two loving parents.
+
+He is currently in a relationship with Monica Keir Joseph. Monica is 9 years older than him and works as a chef.
+
+Mark has one child with girlfriend Monica: Lenny aged 4.
+
+Marks best friend is a personal trainer called Angus Read. They get on well most of the time. He also hangs around with Garfield Griffin and Cameron Morrison. They enjoy going to the movies together.
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">DONE</string>
 </resources>
